@@ -4,9 +4,6 @@
 
 This personal data analytics project shows how HR data can be turned into useful insights through an interactive Power BI dashboard. The dashboard helps users monitor workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity, making it easier to understand workforce trends and support better HR decisions.
 
-The dashboard also includes interactive page navigation and bookmark features, allowing users to move between report pages and switch between chart and table views for selected analyses.
-
-
 <img width="1212" height="682" alt="Dashbboard 2" src="https://github.com/user-attachments/assets/20149804-1da9-414b-88c5-f61723acdf41" />
 
 ## Key Trends & Insights
@@ -37,7 +34,7 @@ The dataset contains HR employee records including hiring and termination dates,
 ---
 
 ## Project Overview
-This project uses HR employee data to build an interactive Power BI dashboard that helps users analyze workforce trends and key HR metrics. The data was cleaned and transformed using Power Query, and DAX measures were created to calculate workforce KPIs used throughout the report.The dashboard allows users to explore workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity through interactive visualizations.
+This project uses HR employee data to build a Power BI dashboard that analyzes workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity. The data was cleaned and prepared using Power Query, and DAX measures were created to calculate key workforce KPIs.
 
 Insights and recommendations are provided on the following key areas:
 
