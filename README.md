@@ -179,12 +179,14 @@ This page analyzes employee tenure to better understand workforce experience and
 ---
 
 ## Technical Highlights
-- Cleaned and transformed HR data using Power Query
-- Built a calendar table to support time-based analysis
-- Created DAX measures for workforce KPIs and calculations
-- Developed a Power BI data model to support dashboard reporting
-- Designed interactive report pages with page navigation and bookmark functionality
-- Built interactive visualizations for workforce trends, employee turnover, hiring activity, tenure, and workforce diversity
+
+* Cleaned and prepared HR data for analysis
+* Created key workforce metrics and KPI calculations
+* Built an interactive Power BI dashboard
+* Designed report pages with easy-to-use navigation and bookmark features
+* Created interactive charts to analyze workforce size, hiring activity, employee turnover, employee tenure, and workforce diversity
+* Organized the data to support accurate reporting and analysis
+
 
 ---
 
