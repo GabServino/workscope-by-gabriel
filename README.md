@@ -32,8 +32,6 @@ Based on the dashboard findings:
 
 The dataset contains HR employee records including hiring and termination dates, employment status, departments, salaries, recruitment sources, performance ratings, employee satisfaction, engagement survey scores, absences, and demographic information.
 
-These data fields were used to analyze workforce trends and develop the interactive Power BI dashboard.
-
 [View Dataset](https://docs.google.com/spreadsheets/d/1Is8f1Hv_vQ742ZwzZGmssHF9N9Z3cmn_/edit?usp=sharing&ouid=112192994012667145760&rtpof=true&sd=true)
 
 ---
