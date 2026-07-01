@@ -11,8 +11,9 @@ To improve usability, the report also includes interactive page navigation and b
 
 ## Business Problem
 
-Organizations need timely workforce insights to support hiring, retention, and workforce planning. However, workforce information is often spread across multiple reports, making it difficult to monitor employee turnover, hiring activity, tenure, and workforce composition in a single place. This project demonstrates how an interactive Power BI dashboard can consolidate key HR metrics into one centralized report, helping stakeholders quickly identify workforce trends and support data-driven decision-making.
+HR teams need an easy way to monitor workforce trends, hiring activity, employee turnover, and retention. When this information is spread across different reports, it becomes harder to get a complete view of the workforce and support informed decision-making.
 
+This project demonstrates how an interactive Power BI dashboard brings key HR metrics into one place, making it easier to track workforce trends and support workforce planning.
 
 ## Key Trends & Insights
 
@@ -149,7 +150,7 @@ The report includes interactive navigation that allows users to explore workforc
 
 ## Department Analysis
 
-I examined workforce metrics across departments to help identify differences in workforce composition and employee movement. By comparing key HR metrics at the department level, non tecnical person can better understand where workforce changes are occurring and prioritize areas that may require further investigation.
+I compared workforce metrics across departments to help identify differences in hiring activity, employee turnover, and workforce size. By viewing these metrics in one place, HR stakeholders can better understand workforce trends across departments and identify areas that may need additional attention.
 
 Key metrics include:
 
