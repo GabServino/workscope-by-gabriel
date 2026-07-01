@@ -2,18 +2,12 @@
 
 ## Executive Summary
 
-This personal data analytics project demonstrates how workforce data can be transformed into meaningful HR insights through an interactive Power BI dashboard. The dashboard enables users to monitor workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity, helping HR teams identify workforce trends and support data-driven decision-making.
+This personal data analytics project shows how HR data can be turned into useful insights through an interactive Power BI dashboard. The dashboard helps users monitor workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity, making it easier to understand workforce trends and support better HR decisions.
 
-To improve usability, the report also includes interactive page navigation and bookmark functionality, allowing users to move between report pages and switch between chart and table views for selected analyses.
+The dashboard also includes interactive page navigation and bookmark features, allowing users to move between report pages and switch between chart and table views for selected analyses.
 
 
 <img width="1212" height="682" alt="Dashbboard 2" src="https://github.com/user-attachments/assets/20149804-1da9-414b-88c5-f61723acdf41" />
-
-## Business Problem
-
-HR teams need an easy way to monitor workforce trends, hiring activity, employee turnover, and retention. When this information is spread across different reports, it becomes harder to get a complete view of the workforce and support informed decision-making.
-
-This project demonstrates how an interactive Power BI dashboard brings key HR metrics into one place, making it easier to track workforce trends and support workforce planning.
 
 ## Key Trends & Insights
 
@@ -45,10 +39,7 @@ These data fields were used to analyze workforce trends and develop the interact
 ---
 
 ## Project Overview
-
-This personal data analytics project was developed based on a simulated HR business scenario to demonstrate how workforce data can be transformed into meaningful business insights through interactive reporting. The goal was to analyze employee data and build a Power BI dashboard that provides a clear and intuitive view of workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity.
-
-The project involved cleaning and transforming HR data using Power Query, creating DAX measures to calculate workforce KPIs, and designing interactive visualizations in Power BI. The final dashboard demonstrates how HR data can be used to monitor workforce trends, support retention analysis, and provide stakeholders with actionable insights for workforce planning.
+This project uses HR employee data to build an interactive Power BI dashboard that helps users analyze workforce trends and key HR metrics. The data was cleaned and transformed using Power Query, and DAX measures were created to calculate workforce KPIs used throughout the report.The dashboard allows users to explore workforce size, employee turnover, hiring activity, employee tenure, and workforce diversity through interactive visualizations.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -58,6 +49,10 @@ Insights and recommendations are provided on the following key areas:
 - **Workforce Diversity:** Review of gender distribution to monitor workforce representation and support diversity initiatives.
 
 ---
+
+## Business Problem
+
+HR teams need an easy way to monitor workforce trends, hiring activity, employee turnover, retention, and workforce growth. When this information is spread across different reports, it becomes difficult to get a complete view of the workforce, identify retention issues, track staffing changes, and support informed workforce planning and hiring decisions.
 
 ## Business Questions
 
